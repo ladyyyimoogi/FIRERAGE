@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 946283c1a2c4d57459ef25df2aa0096d, type: 3}
+  m_Name: LEVEL_TUTORIAL
+  m_EditorClassIdentifier: 
+  levelID: LEVEL_TUT_0
+  roomList:
+  - {fileID: 11400000, guid: 5cdffe6e10800a5458e94213417704c6, type: 2}
+  - {fileID: 11400000, guid: 6452acff767b15e4991adc3651cd614b, type: 2}
+  - {fileID: 11400000, guid: a1805945dc1f8ff4bbf4347273077db4, type: 2}
+  - {fileID: 11400000, guid: 4f941e33c1d58f84e945923465d8c462, type: 2}
+  - {fileID: 11400000, guid: b3a8de8824f099a44975a7612443bea2, type: 2}
+  - {fileID: 11400000, guid: a9fb320684f99d14c9b31d793ea3b824, type: 2}
+  - {fileID: 11400000, guid: 09f8c61986aad2e4ebed590f72a202f6, type: 2}
+  - {fileID: 11400000, guid: 2b66c7ef2fa61db40929399e16a8f489, type: 2}
+  - {fileID: 11400000, guid: aac1bc301302de24a867f491de3abb24, type: 2}
+  - {fileID: 11400000, guid: 77ec5c19382eed946aebff7c72d8f73b, type: 2}
+  - {fileID: 11400000, guid: a2fb9c5a6af099f4bb835343aee8297d, type: 2}
+  - {fileID: 11400000, guid: dac4f71a6bdef8442b3c21722ff91899, type: 2}
+  - {fileID: 11400000, guid: 2d0b6957cb6dfc641aa838b0bf3a255e, type: 2}
+  - {fileID: 11400000, guid: fd8313211c06fc1469460dacc6a8af3e, type: 2}
+  - {fileID: 11400000, guid: bda76b9eeb858e24a80e49fa5bf27f29, type: 2}
+  - {fileID: 11400000, guid: de70ecbea179b4944a5b4720a7a4308d, type: 2}
+  - {fileID: 11400000, guid: e861d92b12fc2bf4f84d372aa17ea064, type: 2}
+  roomPos:
+  - {x: -25, y: -12}
+  - {x: -17, y: -10}
+  - {x: -6, y: -7}
+  - {x: -2, y: -12}
+  - {x: -2, y: -17}
+  - {x: -5, y: 0}
+  - {x: -4, y: 8}
+  - {x: -11, y: 5}
+  - {x: -18, y: 5}
+  - {x: 4, y: 8}
+  - {x: 16, y: 4}
+  - {x: 16, y: -5}
+  - {x: 16, y: -15}
+  - {x: 22, y: 12}
+  - {x: 25, y: 17}
+  - {x: 28, y: 10}
+  - {x: 27, y: 4}

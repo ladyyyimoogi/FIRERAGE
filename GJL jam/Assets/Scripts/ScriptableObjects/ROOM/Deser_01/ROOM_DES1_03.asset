@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1a106b9e65b08c4ca37e0bb11cc958a, type: 3}
+  m_Name: ROOM_DES1_03
+  m_EditorClassIdentifier: 
+  roomID: ROOM_DES1_03
+  nodeSOs:
+  - {fileID: 11400000, guid: 4b9fc025f476561479209d2b248a5572, type: 2}
+  - {fileID: 11400000, guid: 7842eb16d1773c245a4c2b8e85afb041, type: 2}
+  neighborRooms:
+  - {fileID: 11400000, guid: c422afecee28e934b8816e79f20b69fb, type: 2}
+  - {fileID: 11400000, guid: f9597f6c83b38eb469dd0e9a29e8edde, type: 2}

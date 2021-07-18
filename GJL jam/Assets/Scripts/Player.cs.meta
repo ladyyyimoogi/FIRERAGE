@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8999d7731e5d868459ff4db5d6b26990
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player_noWeapon_0: {fileID: 21300000, guid: b02dc8444e52a0c43b292e02da56128b,
+      type: 3}
+  - player_noWeapon_1: {fileID: 21300000, guid: c5fc852000c96cd49baea370486ac561,
+      type: 3}
+  - player_0: {fileID: 21300000, guid: e3de359ea7458eb44b52fe97f763ecde, type: 3}
+  - player_1: {fileID: 21300000, guid: 357e9103040b7d946b6417b3598ee16e, type: 3}
+  - flame: {fileID: 4948444981097002793, guid: c4139918415dc1347bceea88b0d1edb4, type: 3}
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

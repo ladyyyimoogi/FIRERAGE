@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 946283c1a2c4d57459ef25df2aa0096d, type: 3}
+  m_Name: LEVEL_DES_1
+  m_EditorClassIdentifier: 
+  levelID: LEVEL_DES_1
+  roomList:
+  - {fileID: 11400000, guid: 7899dd49020887b4ebd7d330d9f0a2d4, type: 2}
+  - {fileID: 11400000, guid: c422afecee28e934b8816e79f20b69fb, type: 2}
+  - {fileID: 11400000, guid: 7083ab993c3bdfe4c9533df4351ab706, type: 2}
+  - {fileID: 11400000, guid: f9597f6c83b38eb469dd0e9a29e8edde, type: 2}
+  - {fileID: 11400000, guid: bb2b98c4c1dbbdc4a82d13a1ec811791, type: 2}
+  roomPos:
+  - {x: -12, y: -10}
+  - {x: -4, y: -10}
+  - {x: 3, y: -10}
+  - {x: 2, y: -3}
+  - {x: 1, y: 8}

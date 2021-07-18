@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94d485db16b89554fb383332ec568cf4, type: 3}
+  m_Name: TOWN_1_HOS
+  m_EditorClassIdentifier: 
+  nextLevel: 1
+  dialogArr:
+  - {fileID: 11400000, guid: db0585e6df691e24297f392d728ae4f8, type: 2}
+  - {fileID: 11400000, guid: afc376bdfbba3fb42822c491c0b70a17, type: 2}
+  - {fileID: 11400000, guid: 9a8cc47bda85843469779fe2b6ff1ea0, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1a106b9e65b08c4ca37e0bb11cc958a, type: 3}
+  m_Name: ROOM_TUT_10
+  m_EditorClassIdentifier: 
+  roomID: ROOM_TUT_10
+  nodeSOs:
+  - {fileID: 11400000, guid: 8fd86da484d96fc4fbb6c66d725ff78c, type: 2}
+  - {fileID: 11400000, guid: 7eb0638d438d8ae438b2edca85ff5ccf, type: 2}
+  neighborRooms:
+  - {fileID: 11400000, guid: 09f8c61986aad2e4ebed590f72a202f6, type: 2}
+  - {fileID: 11400000, guid: a2fb9c5a6af099f4bb835343aee8297d, type: 2}

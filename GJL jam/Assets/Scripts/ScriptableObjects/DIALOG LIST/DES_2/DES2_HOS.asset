@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94d485db16b89554fb383332ec568cf4, type: 3}
+  m_Name: DES2_HOS
+  m_EditorClassIdentifier: 
+  nextLevel: 1
+  dialogArr:
+  - {fileID: 11400000, guid: fd84b468b5ae5a346978ec52d7c55ecc, type: 2}
+  - {fileID: 11400000, guid: ca24a51511331d943ac9b35c92412310, type: 2}
+  - {fileID: 11400000, guid: 5824851c260ead64483aad7d4e79e60f, type: 2}

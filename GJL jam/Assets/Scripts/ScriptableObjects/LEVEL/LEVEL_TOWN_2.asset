@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 946283c1a2c4d57459ef25df2aa0096d, type: 3}
+  m_Name: LEVEL_TOWN_2
+  m_EditorClassIdentifier: 
+  levelID: 
+  roomList:
+  - {fileID: 11400000, guid: 45773ec81e027424697838f548955769, type: 2}
+  - {fileID: 11400000, guid: 97b07ebcebdfb08468e55e22f53930bf, type: 2}
+  - {fileID: 11400000, guid: 5bf9054ed5fb5c74bb551e57f4c00a22, type: 2}
+  - {fileID: 11400000, guid: 46782ae2019599b48994d2a56f3eb2ff, type: 2}
+  - {fileID: 11400000, guid: c3c9bce3b292ce0429f9c71b26e74670, type: 2}
+  - {fileID: 11400000, guid: 698e4eabaf70c2743a73b402c86b7604, type: 2}
+  - {fileID: 11400000, guid: 68b328dfc7d254a49a0622f02b6ca79c, type: 2}
+  - {fileID: 11400000, guid: 67940bf262c8f9b4bb42da815ff57d6d, type: 2}
+  - {fileID: 11400000, guid: 93e7b371101a2b240b00bec067d81481, type: 2}
+  roomPos:
+  - {x: 0, y: -12}
+  - {x: 0, y: -5}
+  - {x: 0, y: 2}
+  - {x: -10, y: 2}
+  - {x: -18, y: 2}
+  - {x: 0, y: 8}
+  - {x: 0, y: 14}
+  - {x: 8, y: 2}
+  - {x: 16, y: 2}
